@@ -15,7 +15,7 @@ Include both the small and capital case letters."
     echo "Input your password:"
 
     read password #storing password in variable
-    echo
+    echo "test"
 fi
 
 passwordLen=${#password} #storing password length in variable
